@@ -10,13 +10,16 @@ We created a bot for Discord and Slack to detect any hate message or foul langua
 Technologies used:
 
 Tensorflow Toxicity API
+
 Nodejs
+
 Bolt.js(Slack)
+
 Discord.js(Discord)
+
 HTML/CSS
+
 Vercel(Website Deployment)
+
 Heroku(Bot Deployment)
-GitHub Links to Discord and Slack Bot
-Discord
-Slack
-Made with love
+
